@@ -5,12 +5,6 @@
 [![Meu Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanisoliveira39@gmail.com)
 
 
-
-
-
-
-![Alanis GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanisOliveira&show_icons=true&theme=radical)
-
 ## Tecnologias que já utilizei
 
 <div style='display: inline block'><br/>
@@ -21,6 +15,7 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
    
    
    
